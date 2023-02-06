@@ -1,1 +1,1 @@
-# compyter-network
+# computer-network
